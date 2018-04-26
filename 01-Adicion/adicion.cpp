@@ -2,6 +2,7 @@
 /*
 	Adición
 	Mariano Cortina
+	K1051
 	25/04/2018
 */
 #include <iostream>
